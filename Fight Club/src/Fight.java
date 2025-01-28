@@ -10,7 +10,6 @@ public class Fight {
 	public int option;
 	
 	public void p1Move(int option) {
-		//option = s.nextInt();
 		switch(option) {
 		case 1:
 			P1.nextPunch = true;

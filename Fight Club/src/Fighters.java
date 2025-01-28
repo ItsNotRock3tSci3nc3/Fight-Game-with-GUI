@@ -108,5 +108,9 @@ public class Fighters {
 		}
 		
 	}
+
+	public double GetHealth(){
+		return Health;
+	}
 	
 }
